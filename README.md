@@ -1,6 +1,6 @@
 # General-Work
 ## Positions: 
-  Chief Privacy OFficer: Kim
+  Chief Privacy Officer: Kim
   
   Chief Infomration Officer: Eli
   
