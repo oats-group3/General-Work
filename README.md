@@ -7,7 +7,9 @@
   
   Chief Data Officer-Ground Lead: Christopher
   
-  Chief Security Officer: Ali*
+  Chief Security Officer: Ali
+  
+  Chief Knowledge Officer: Michelle
   
   The team will utilize Github, as a form of collaboration, but due to the lack of quick notifications, we will use the Slack application as a primary means of communication due to it having an application for mobile devices.
   
