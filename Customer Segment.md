@@ -1,3 +1,3 @@
-##Customer Segement
+## Customer Segement
 
 The targeted democraphic for the company are levied towards the high-end shoopers who reside in the United States. While not trying to discourage the middle and lower class from purchasing items, the products are of higher quailty that have various costs associated with them. Since the business is centered about the curation model, it can assist most, if not all, needs and wants of customers. Should an individual wish to purchase a printer but doesn't know what model he or she wants, then our model could easily help determine what caters towards their personality the most.  
