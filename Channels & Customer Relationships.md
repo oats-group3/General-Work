@@ -18,7 +18,7 @@
   
   # Customer Support
   
-    Customer Support is avliable 24 hours a day, 7 days a week. We are availale through online chat, email, or via phones. Our customer service team will strive to keep wait times non-exist by having well staffed centers, well trained staff, and making sure the customer is happy the first time around. Our customer service teams will be well trained, but organized. We will not expect our general customer service team to do tech support, or any other specialized task, the welcome menu when you call will have one option, which is what department. This helps to make sure the customer gets the right team member the first time.
+  Customer Support is avliable 24 hours a day, 7 days a week. We are availale through online chat, email, or via phones. Our customer service team will strive to keep wait times non-exist by having well staffed centers, well trained staff, and making sure the customer is happy the first time around. Our customer service teams will be well trained, but organized. We will not expect our general customer service team to do tech support, or any other specialized task, the welcome menu when you call will have one option, which is what department. This helps to make sure the customer gets the right team member the first time.
     
     
    
