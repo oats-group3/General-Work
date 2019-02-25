@@ -18,7 +18,7 @@
 
 # How we Deliver Value
 
-<p>Alinder strives to create the best shopping experience possible for our loyal customers. Our loyalty program helps show our gratitude towards our customers by rewarding them for shopping with us. Our bulk shopping approach also keeps prices down, as we will get bulk discounts, which will then be passed down to our customers. Hassle-free returns will make our customers happy, even if they were disappointed with their shopping experience. Our greatest selling point that we have over our competition is our curation process. We will make sure your product is genuine, made to last, worth the cost, and is of good quality overall to ensure our customers don't get Amazoned into a subpar product.</p>
+<p>Alinder strives to create the best shopping experience possible for our loyal customers. Our loyalty program helps show our gratitude towards our customers by rewarding them for shopping with us. Our bulk shopping approach also keeps prices down, as we will get bulk discounts, which will then be passed down to our customers. Hassle-free returns will make our customers happy, even if they were disappointed with their shopping experience. Our greatest selling point that we have over our competition is our curation process. We will make sure your product is genuine, made to last, worth the cost, and is of good quality overall to ensure our customers don't get Amazon-ed into a sub-par product.</p>
 
 
 # Customer Support
