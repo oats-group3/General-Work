@@ -6,7 +6,7 @@
 
   Chief Privacy Officer: Kim
   
-  Chief Infomration Officer: Eli
+  Chief Information Officer: Eli
   
   Chief Data Officer-Ground Lead: Christopher
   
