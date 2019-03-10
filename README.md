@@ -2,23 +2,25 @@
 
 # General-Work
 
-## Positions: 
+## Positions
 
-  Chief Privacy Officer: Kim
+Chief Privacy Officer: Kim
   
-  Chief Information Officer: Eli
+Chief Information Officer: Eli
   
-  Chief Data Officer-Ground Lead: Christopher
+Chief Data Officer-Ground Lead: Christopher
   
-  Chief Security Officer: Ali
+Chief Security Officer: Ali
   
-  Chief Knowledge Officer: Michelle
+Chief Knowledge Officer: Michelle
+
+
+## Communication Plan
+
+*The team will utilize Github, as a form of collaboration, but due to the lack of quick notifications, we will use the Slack application as a primary means of communication due to it having an application for mobile devices.
   
-## Communication Plan:
-  The team will utilize Github, as a form of collaboration, but due to the lack of quick notifications, we will use the Slack application as a primary means of communication due to it having an application for mobile devices.
+*Emails have been exchanged and will be used as a secondary form of communication.
   
-  Emails have been exchanged and will be used as a secondary form of communication.
+*Situations will dictate if we will schedule physical meetings.
   
-  Situations will dictate if we will schedule physical meetings.
-  
-  Meetings will take place to collaborate on planning and execution for where the firm needs to go and analyzing competitors and new entrants within the market. 
+*Meetings will take place to collaborate on planning and execution for where the firm needs to go and analyzing competitors and new entrants within the market. 
