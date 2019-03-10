@@ -1,6 +1,6 @@
 <p align="center"><img src="AlinderLogo.jpg" width="250" alt="Alinder Logo"/></p>
 
-# General-Work
+# General Work
 
 ## Positions
 
